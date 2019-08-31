@@ -1,0 +1,14 @@
+{
+  "name": "ts-auto-import-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@gamestdio/signals": "^1.0.0"
+  }
+}

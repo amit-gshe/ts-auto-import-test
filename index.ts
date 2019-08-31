@@ -1,0 +1,2 @@
+
+const signal = new OnceSignal
